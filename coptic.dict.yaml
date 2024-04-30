@@ -1,0 +1,154 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Cyrillic keyboard
+#
+# Table author:
+#  - Valery Sokolov <yetanothermy@protonmail.com>
+#
+
+---
+name: coptic
+version: "0.1"
+sort: original
+...
+
+#Lower case symbols
+ⲁ	a
+ⲃ	b
+ⲅ	g
+ⲇ	d
+ⲉ	e
+ⲋ	dx
+ⲍ	z
+ⲏ	i
+ⲑ	j
+ⲓ	y
+ⲕ	k
+ⲗ	l
+ⲙ	m
+ⲛ	n
+ⲝ	x
+ⲟ	o
+ⲡ	p
+ⲣ	r
+ⲥ	s
+ⲧ	t
+ⲩ	u
+ⲫ	f
+ⲭ	h
+ⲯ	px
+ⲱ	w
+ϣ	sx
+ϥ	v
+ϧ	q
+ϩ	nx
+ϫ	gx
+ϭ	cx
+ϯ	c
+
+ⳁ	rx
+ⳉ	qx
+
+#Uppercase symbols
+Ⲁ	A
+Ⲃ	B
+Ⲅ	G
+Ⲇ	D
+Ⲉ	E
+Ⲋ	DX
+Ⲍ	Z
+Ⲏ	I
+Ⲑ	J
+Ⲓ	Y
+Ⲕ	K
+Ⲗ	L
+Ⲙ	M
+Ⲛ	N
+Ⲝ	X
+Ⲟ	O
+Ⲡ	P
+Ⲣ	R
+Ⲥ	S
+Ⲧ	T
+Ⲩ	U
+Ⲫ	F
+Ⲭ	H
+Ⲯ	PX
+Ⲱ	W
+Ϣ	SX
+Ϥ	V
+Ϧ	Q
+Ϩ	NX
+Ϫ	GX
+Ϭ	CX
+Ϯ	C
+
+Ⳁ	RX
+Ⳉ	QX
+
+#Symbols
+⳥	mr
+⳦	pr
+⳧	str
+⳨	tr
+⳩	hr
+ⳤ	kx
+⳪	osx
+⳽	zx
+⳹	'[
+⳼	']
+⳺	]
+⳻	[
+⳾	.'
+⳿	`
+`	`'
+⳩	.
+⳨	,
+⳥	\
+\	\'
+⳦	?
+⳧	!
+?	?'
+!	!'
+
+#Numbers
+ⳤ	0
+Ⲁ	1
+Ⲃ	2
+Ⲅ	3
+Ⲇ	4
+Ⲉ	5
+Ⲋ	6
+Ⲍ	7
+Ⲏ	8
+Ⲑ	9
+Ⲓ	10
+Ⲕ	20
+Ⲗ	30
+Ⲙ	40
+Ⲛ	50
+Ⲝ	60
+Ⲟ	70
+Ⲡ	80
+Ⲣ	100
+Ⲥ	200
+Ⲧ	300
+Ⲩ	400
+Ⲫ	500
+Ⲭ	600
+Ⲯ	700
+Ⲱ	800
+Ϥ	90
+Ⳁ	900
+
+1	1'
+2	2'
+3	3'
+4	4'
+5	5'
+6	6'
+7	7'
+8	8'
+9	9'
+0	0'
