@@ -9,7 +9,7 @@
 
 ---
 name: coptic
-version: "0.1"
+version: "0.2"
 sort: original
 ...
 
@@ -19,16 +19,16 @@ sort: original
 ⲅ	g
 ⲇ	d
 ⲉ	e
-ⲋ	dx
+ⲋ	dz
 ⲍ	z
 ⲏ	i
-ⲑ	jx
+ⲑ	j
 ⲓ	y
 ⲕ	k
 ⲗ	l
 ⲙ	m
 ⲛ	n
-ⲝ	x
+ⲝ	ks
 ⲟ	o
 ⲡ	p
 ⲣ	r
@@ -37,18 +37,24 @@ sort: original
 ⲩ	u
 ⲫ	f
 ⲭ	h
-ⲯ	px
+ⲯ	ps
 ⲱ	w
-ϣ	sx
+ϣ	x
 ϥ	v
 ϧ	q
-ϩ	nx
-ϫ	j
-ϭ	cx
-ϯ	c
+ϩ	ng
+ϫ	dj
+ϭ	tx
+ϯ	ts
 
-ⳁ	rx
-ⳉ	qx
+ⳁ	rc
+ⳉ	qc
+
+ⲁ̄	aa
+ⲏ̄	ii
+ⲩ̄	uu
+ⲉ̄	ee
+ⲟ̄	oo
 
 #Uppercase symbols
 Ⲁ	A
@@ -56,16 +62,16 @@ sort: original
 Ⲅ	G
 Ⲇ	D
 Ⲉ	E
-Ⲋ	DX
+Ⲋ	DZ
 Ⲍ	Z
 Ⲏ	I
-Ⲑ	JX
+Ⲑ	J
 Ⲓ	Y
 Ⲕ	K
 Ⲗ	L
 Ⲙ	M
 Ⲛ	N
-Ⲝ	X
+Ⲝ	KS
 Ⲟ	O
 Ⲡ	P
 Ⲣ	R
@@ -74,18 +80,24 @@ sort: original
 Ⲩ	U
 Ⲫ	F
 Ⲭ	H
-Ⲯ	PX
+Ⲯ	PS
 Ⲱ	W
-Ϣ	SX
+Ϣ	X
 Ϥ	V
 Ϧ	Q
-Ϩ	NX
-Ϫ	J
-Ϭ	CX
-Ϯ	C
+Ϩ	NG
+Ϫ	DJ
+Ϭ	TX
+Ϯ	TS
 
-Ⳁ	RX
-Ⳉ	QX
+Ⳁ	RC
+Ⳉ	QC
+
+Ⲁ̄	AA
+Ⲏ̄	II
+Ⲩ̄	UU
+Ⲉ̄	EE
+Ⲟ̄	OO
 
 #Symbols
 ⳥	mr
@@ -93,62 +105,19 @@ sort: original
 ⳧	str
 ⳨	tr
 ⳩	hr
-ⳤ	kx
-⳪	osx
-⳽	zx
-# ⳹	'[
-# ⳼	']
-# ⳺	]
-# ⳻	[
-# ⳾	.'
-# ⳿	`
-# `	`'
-# ⳩	.
-# ⳨	\
-# ⳥	?
-# \	\'
-# ⳦	,
-# ⳧	!
-# ?	?'
-# !	!'
+ⳤ	kc
+⳪	oc
+⳽	sc
+⳹	'[
+⳼	']
+⳺	]
+⳻	[
+⳾	.'
+⳿	`
+⳩	.
+⳨	\
+⳥	?
+⳦	,
+⳧	!
 
 #Numbers
-# ⳤ	0
-Ⲁ	1
-Ⲃ	2
-Ⲅ	3
-Ⲇ	4
-Ⲉ	5
-Ⲋ	6
-Ⲍ	7
-Ⲏ	8
-Ⲑ	9
-Ⲓ	10
-Ⲕ	20
-Ⲗ	30
-Ⲙ	40
-Ⲛ	50
-Ⲝ	60
-Ⲟ	70
-Ⲡ	80
-Ϥ	90
-Ⲣ	100
-Ⲥ	200
-Ⲧ	300
-Ⲩ	400
-Ⲫ	500
-Ⲭ	600
-Ⲯ	700
-Ⲱ	800
-Ⳁ	900
-
-# 1	1'
-# 2	2'
-# 3	3'
-# 4	4'
-# 5	5'
-# 6	6'
-# 7	7'
-# 8	8'
-# 9	9'
-# 0	0'
