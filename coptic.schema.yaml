@@ -4,7 +4,7 @@
 schema:
   schema_id: coptic
   name: Coptic
-  version: '0.1'
+  version: '0.2'
   author:
     - Valery Sokolov <yetanothermy@protonmail.com>
   description: |
@@ -23,7 +23,7 @@ engine:
     - table_translator
 
 speller:
-  alphabet: ZYXWVUTSRQPONMLKJIHGFEDCBAzyxwvutsrqponmlkjihgfedcba''[].,\\\`\?\!0123456789
+  alphabet: ZYXWVUTSRQPONMLKJIHGFEDCBAzyxwvutsrqponmlkjihgfedcba''[].,\\\`\?\!
   # initials: ''
   # finals: ''
   auto_select: true
